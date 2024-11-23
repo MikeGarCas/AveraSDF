@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="urn:schemas-suitecloud:sdf:manifest-1_0" projecttype="ACCOUNTCUSTOMIZATION">
+    <types>
+        <!-- Scripts -->
+        <type>script</type>
+        
+        <!-- Registros Personalizados -->
+        <type>customrecordtype</type>
+        
+        <!-- Campos Personalizados -->
+        <type>customfield</type>
+        
+        <!-- Campos de Cuerpo de Transacción Personalizados -->
+        <type>transactionbodycustomfield</type>
+        
+        <!-- Campos de Columna de Transacción Personalizados -->
+        <type>transactioncolumncustomfield</type>
+    </types>
+</manifest>
